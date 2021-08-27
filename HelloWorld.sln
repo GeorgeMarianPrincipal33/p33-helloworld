@@ -4,14 +4,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorldWebApp", "HelloWorldWebApp\HelloWorldWebApp.csproj", "{10BB972C-F69B-49BA-A535-B4F7FB354E06}"
-EndProject0
+EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1212281F-D98A-49F0-9558-AF9C05C42595}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorldWebApp.Tests", "HelloWorldWebApp.Tests\HelloWorldWebApp.Tests.csproj", "{F7F619B2-EF18-4875-90CA-9406AEDCAB4F}"
-EndProject0
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpFeatures", "CSharpFeatures\CSharpFeatures.csproj", "{A9C8AF0D-4EA8-421C-A465-3ABFC3694596}"0
 EndProject
 Global

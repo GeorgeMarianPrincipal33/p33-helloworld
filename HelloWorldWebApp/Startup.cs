@@ -131,7 +131,7 @@ namespace HelloWorldWebApp
             var adminUser = await EnsureUserCreated(userManager, "borys.lebeda@principal33.com", "TzfOh22_FCbjxXQt6U");
             var operatorUser = await EnsureUserCreated(userManager, "borys.lebeda2@principal33.com", "TzfOh22_FCbjxXQt6U2");
 
-            var adminRole = await EnsureRoleCreated(serviceProvider, "Administrator");
+            var adminRole = await EnsureRoleCreated(serviceProvider, "Administrators");
             var operatorRole = await EnsureRoleCreated(serviceProvider, "Operator");
 
             await userManager.AddToRoleAsync(adminUser, adminRole.Name);
